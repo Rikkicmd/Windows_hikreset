@@ -1,0 +1,13 @@
+Steps
+1. Set the IP of computer as 192.0.0.128 with subnet 255.255.255.0
+2. Recorder IP can be anything (You cant change it anyway if your locked out)
+3. Make sure Recorder is turned ON.
+4. Run the tftpserv.exe file.
+5. Power OFF the recorder wait 5 seconds and then power ON the Recorder. The Recorder will search the new firmware and upgrade it automatically. 
+6. Wait until TFTP shows "Device [192.0.0.64] system update completed!" It takes a few minutes.
+7. Close the TFTP program before the recorder reboots.
+8. Recorder will restart automatically after upgrading.
+9. You will hopefully get a setup wizard page if you have a monitor plugged in, if not it should be seen as needing activating on SADP software.
+
+
+If this doesnt work due to the firmware file being too large, I can give you another program to use but it needs to be ran in Linux.

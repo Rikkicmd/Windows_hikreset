@@ -1,0 +1,667 @@
+[2012-05-09 14:21:17] TFTP server[192.0.0.128] initialized[2012-05-09 14:21:42] TFTP server[192.0.0.128] initialized[2012-05-28 10:18:37] TFTP server[192.0.0.128] initialized[2012-08-23 09:40:24] TFTP server[192.168.1.60] initialized[2015-03-26 19:09:28] TFTP server[192.0.0.128] initialized
+[2015-03-26 19:09:43] Device[192.0.0.64] test tftpserver
+[2015-03-26 19:09:53] Connect client[192.0.0.64] success
+[2015-03-26 19:09:53] Start file[E:\TFTP\digicap.dav] transmitting
+[2015-03-26 19:10:24] Completed file[E:\TFTP\digicap.dav] transmit
+[2015-03-26 19:10:43] Device[192.0.0.64] system update completed!
+[2015-03-27 17:39:03] TFTP server[192.0.0.128] initialized
+[2015-03-27 17:39:15] Device[192.0.0.64] test tftpserver
+[2015-03-27 17:39:23] Connect client[192.0.0.64] success
+[2015-03-27 17:39:23] Start file[E:\TFTP\digicap.dav] transmitting
+[2015-03-27 17:39:53] Completed file[E:\TFTP\digicap.dav] transmit
+[2015-03-27 17:40:12] Device[192.0.0.64] system update completed!
+[2015-03-27 17:40:55] Device[192.0.0.64] test tftpserver
+[2015-03-27 17:41:02] Connect client[192.0.0.64] success
+[2015-03-27 17:41:02] Start file[E:\TFTP\digicap.dav] transmitting
+[2015-03-27 17:41:32] Completed file[E:\TFTP\digicap.dav] transmit
+[2015-03-27 17:41:51] Device[192.0.0.64] system update completed!
+[2015-03-27 17:54:49] TFTP server[192.0.0.128] initialized
+[2015-03-27 17:54:58] Device[192.0.0.64] test tftpserver
+[2015-03-27 17:55:08] Connect client[192.0.0.64] success
+[2015-03-27 17:55:08] Start file[E:\TFTP\digicap.dav] transmitting
+[2015-03-27 17:55:40] Completed file[E:\TFTP\digicap.dav] transmit
+[2015-03-27 17:56:01] Device[192.0.0.64] system update completed!
+[2015-03-27 17:56:42] Device[192.0.0.64] test tftpserver
+[2015-03-27 17:56:51] Connect client[192.0.0.64] success
+[2015-03-27 17:56:51] Start file[E:\TFTP\digicap.dav] transmitting
+[2015-03-27 17:57:24] Completed file[E:\TFTP\digicap.dav] transmit
+[2015-03-27 17:57:45] Device[192.0.0.64] system update completed!
+[2015-03-28 14:01:44] TFTP server[192.0.0.128] initialized
+[2015-03-28 14:01:53] Device[192.0.0.64] test tftpserver
+[2015-03-28 14:02:00] Connect client[192.0.0.64] success
+[2015-03-28 14:02:01] Start file[E:\TFTP\digicap.dav] transmitting
+[2015-03-28 14:02:29] Completed file[E:\TFTP\digicap.dav] transmit
+[2015-03-28 14:02:48] Device[192.0.0.64] system update completed!
+[2015-03-28 15:05:37] TFTP server[192.0.0.128] initialized
+[2015-03-28 15:05:51] Device[192.0.0.64] test tftpserver
+[2015-03-28 15:05:59] Connect client[192.0.0.64] success
+[2015-03-28 15:05:59] Start file[E:\TFTP\digicap.dav] transmitting
+[2015-03-28 15:06:27] Completed file[E:\TFTP\digicap.dav] transmit
+[2015-03-28 15:06:46] Device[192.0.0.64] system update completed!
+[2015-03-31 16:17:24] TFTP server[127.0.0.1] initialized
+[2015-03-31 16:18:06] Device[192.0.0.64] test tftpserver
+[2015-03-31 16:18:13] Connect client[192.0.0.64] success
+[2015-03-31 16:18:13] Start file[F:\TFTP\digicap.dav] transmitting
+[2015-03-31 16:18:44] Completed file[F:\TFTP\digicap.dav] transmit
+[2015-03-31 16:19:01] Device[192.0.0.64] system update completed!
+[2015-04-15 18:50:59] TFTP server[192.0.0.128] initialized
+[2015-04-15 18:52:00] Device[192.0.0.64] test tftpserver
+[2015-04-15 18:52:08] Connect client[192.0.0.64] success
+[2015-04-15 18:52:08] Start file[F:\TFTP\digicap.dav] transmitting
+[2015-04-15 18:52:39] Completed file[F:\TFTP\digicap.dav] transmit
+[2015-04-15 18:52:56] Device[192.0.0.64] system update completed!
+[2015-04-20 19:17:49] TFTP server[192.0.0.128] initialized
+[2015-04-20 19:19:05] Device[192.0.0.64] test tftpserver
+[2015-04-20 19:19:13] Connect client[192.0.0.64] success
+[2015-04-20 19:19:13] Start file[F:\TFTP\digicap.dav] transmitting
+[2015-04-20 19:19:44] Completed file[F:\TFTP\digicap.dav] transmit
+[2015-04-20 19:20:02] Device[192.0.0.64] system update completed!
+[2015-04-22 18:12:03] TFTP server[192.0.0.128] initialized
+[2015-04-22 18:12:13] Device[192.0.0.64] test tftpserver
+[2015-04-22 18:12:21] Connect client[192.0.0.64] success
+[2015-04-22 18:12:21] Start file[F:\TFTP\digicap.dav] transmitting
+[2015-04-22 18:12:44] Completed file[F:\TFTP\digicap.dav] transmit
+[2015-04-22 18:12:44] Device[192.0.0.64] system update completed!
+[2015-04-22 18:13:36] Device[192.0.0.64] test tftpserver
+[2015-04-22 18:17:51] TFTP server[192.0.0.128] initialized
+[2015-04-22 18:18:03] Device[192.0.0.64] test tftpserver
+[2015-04-22 18:18:13] Connect client[192.0.0.64] success
+[2015-04-22 18:18:13] Start file[F:\TFTP\digicap.dav] transmitting
+[2015-04-22 18:18:35] Completed file[F:\TFTP\digicap.dav] transmit
+[2015-04-22 18:18:35] Device[192.0.0.64] system update completed!
+[2015-04-22 18:23:29] TFTP server[192.168.1.9] initialized
+[2015-04-22 18:23:44] TFTP server[192.0.0.128] initialized
+[2015-04-22 18:23:55] Device[192.0.0.64] test tftpserver
+[2015-04-22 18:24:03] Connect client[192.0.0.64] success
+[2015-04-22 18:24:03] Start file[F:\TFTP\digicap.dav] transmitting
+[2015-04-22 18:24:34] Completed file[F:\TFTP\digicap.dav] transmit
+[2015-04-22 18:24:56] Device[192.0.0.64] system update completed!
+[2015-04-22 18:37:31] TFTP server[192.0.0.128] initialized
+[2015-04-22 18:37:43] Device[192.0.0.64] test tftpserver
+[2015-04-22 18:37:50] Connect client[192.0.0.64] success
+[2015-04-22 18:37:50] Start file[F:\TFTP\digicap.dav] transmitting
+[2015-04-22 18:38:12] Completed file[F:\TFTP\digicap.dav] transmit
+[2015-04-22 18:38:12] Device[192.0.0.64] system update completed!
+[2015-04-22 18:38:26] Device[192.0.0.64] test tftpserver
+[2015-04-22 18:38:35] Connect client[192.0.0.64] success
+[2015-04-22 18:38:35] Start file[F:\TFTP\digicap.dav] transmitting
+[2015-04-22 18:38:57] Completed file[F:\TFTP\digicap.dav] transmit
+[2015-04-22 18:38:57] Device[192.0.0.64] system update completed!
+[2015-04-22 18:44:11] TFTP server[192.0.0.128] initialized
+[2015-04-22 18:44:22] Device[192.0.0.64] test tftpserver
+[2015-04-22 18:44:30] Connect client[192.0.0.64] success
+[2015-04-22 18:44:30] Start file[F:\TFTP\digicap.dav] transmitting
+[2015-04-22 18:44:52] Completed file[F:\TFTP\digicap.dav] transmit
+[2015-04-22 18:44:52] Device[192.0.0.64] system update completed!
+[2015-04-22 19:01:16] TFTP server[192.0.0.128] initialized
+[2015-04-22 19:01:25] Device[192.0.0.64] test tftpserver
+[2015-04-22 19:01:30] Connect client[192.0.0.64] success
+[2015-04-22 19:01:30] Start file[F:\TFTP\digicap.dav] transmitting
+[2015-04-22 19:02:04] Completed file[F:\TFTP\digicap.dav] transmit
+[2015-04-22 19:02:26] Device[192.0.0.64] system update completed!
+[2015-04-22 19:20:09] TFTP server[192.0.0.128] initialized
+[2015-04-22 19:20:18] Device[192.0.0.64] test tftpserver
+[2015-04-22 19:20:28] Connect client[192.0.0.64] success
+[2015-04-22 19:20:28] Start file[F:\TFTP\digicap.dav] transmitting
+[2015-04-22 19:20:57] Completed file[F:\TFTP\digicap.dav] transmit
+[2015-04-22 19:21:15] Device[192.0.0.64] system update completed!
+[2015-04-23 19:00:49] TFTP server[192.0.0.128] initialized
+[2015-04-23 19:03:08] Device[192.0.0.64] test tftpserver
+[2015-04-23 19:03:15] Connect client[192.0.0.64] success
+[2015-04-23 19:03:15] Start file[F:\TFTP\digicap.dav] transmitting
+[2015-04-23 19:03:46] Completed file[F:\TFTP\digicap.dav] transmit
+[2015-04-23 19:04:04] Device[192.0.0.64] system update completed!
+[2015-04-23 19:09:49] TFTP server[192.0.0.128] initialized
+[2015-04-23 19:10:00] Device[192.0.0.64] test tftpserver
+[2015-04-23 19:10:08] Connect client[192.0.0.64] success
+[2015-04-23 19:10:08] Start file[F:\TFTP\digicap.dav] transmitting
+[2015-04-23 19:10:41] Completed file[F:\TFTP\digicap.dav] transmit
+[2015-04-23 19:11:00] Device[192.0.0.64] system update completed!
+[2015-04-23 20:16:45] TFTP server[192.168.1.9] initialized
+[2015-04-23 20:20:08] TFTP server[192.168.1.9] initialized
+[2015-04-23 20:20:22] TFTP server[192.0.0.128] initialized
+[2015-04-23 20:20:31] Device[192.0.0.64] test tftpserver
+[2015-04-23 20:20:38] Connect client[192.0.0.64] success
+[2015-04-23 20:20:38] Start file[F:\TFTP\digicap.dav] transmitting
+[2015-04-23 20:21:12] Completed file[F:\TFTP\digicap.dav] transmit
+[2015-04-23 20:21:34] Device[192.0.0.64] system update completed!
+[2015-04-23 20:26:20] TFTP server[192.0.0.128] initialized
+[2015-04-23 20:26:28] Device[192.0.0.64] test tftpserver
+[2015-04-23 20:27:15] Device[192.0.0.64] test tftpserver
+[2015-04-23 20:27:20] Device[192.0.0.64] test tftpserver
+[2015-04-23 20:44:19] TFTP server[192.0.0.128] initialized
+[2015-04-23 20:44:35] Device[192.0.0.64] test tftpserver
+[2015-04-23 20:57:22] Device[192.0.0.64] test tftpserver
+[2015-04-23 20:57:30] Connect client[192.0.0.64] success
+[2015-04-23 20:57:30] Start file[F:\TFTP\digicap.dav] transmitting
+[2015-04-23 20:58:00] Completed file[F:\TFTP\digicap.dav] transmit
+[2015-04-23 20:58:18] Device[192.0.0.64] system update completed!
+[2015-04-23 22:11:04] TFTP server[192.0.0.128] initialized
+[2015-04-23 22:11:13] Device[192.0.0.64] test tftpserver
+[2015-04-23 22:11:20] Connect client[192.0.0.64] success
+[2015-04-23 22:11:20] Start file[F:\TFTP\digicap.dav] transmitting
+[2015-04-23 22:11:46] Completed file[F:\TFTP\digicap.dav] transmit
+[2015-04-23 22:12:02] Device[192.0.0.64] system update completed!
+[2015-04-23 22:29:44] TFTP server[192.0.0.128] initialized
+[2015-04-23 22:29:52] Device[192.0.0.64] test tftpserver
+[2015-04-23 22:29:59] Connect client[192.0.0.64] success
+[2015-04-23 22:29:59] Start file[F:\TFTP\digicap.dav] transmitting
+[2015-04-23 22:30:28] Completed file[F:\TFTP\digicap.dav] transmit
+[2015-04-23 22:30:47] Device[192.0.0.64] system update completed!
+[2015-04-25 15:46:27] TFTP server[192.0.0.128] initialized
+[2015-04-25 15:46:38] Device[192.0.0.64] test tftpserver
+[2015-04-25 15:46:40] Connect client[192.0.0.64] success
+[2015-04-25 15:46:40] Start file[F:\TFTP\digicap.dav] transmitting
+[2015-04-25 15:46:47] Resend required
+
+[2015-04-25 15:46:56] Resend required
+
+[2015-04-25 15:47:05] Resend required
+
+[2015-04-25 15:47:14] Completed file[F:\TFTP\digicap.dav] transmit
+[2015-04-25 15:51:22] TFTP server[192.168.1.7] initialized
+[2015-04-25 15:51:43] TFTP server[192.0.0.128] initialized
+[2015-04-25 15:51:53] Device[192.0.0.64] test tftpserver
+[2015-04-25 15:51:54] Connect client[192.0.0.64] success
+[2015-04-25 15:51:54] Start file[F:\TFTP\digicap.dav] transmitting
+[2015-04-25 15:52:03] Resend required
+
+[2015-04-25 15:52:13] Resend required
+
+[2015-04-25 15:52:22] Resend required
+
+[2015-04-25 15:52:28] Completed file[F:\TFTP\digicap.dav] transmit
+[2015-04-25 18:10:45] TFTP server[192.0.0.128] initialized
+[2015-04-25 18:10:56] Device[192.0.0.64] test tftpserver
+[2015-04-25 18:11:03] Connect client[192.0.0.64] success
+[2015-04-25 18:11:03] Start file[F:\TFTP\digicap.dav] transmitting
+[2015-04-25 18:11:32] Completed file[F:\TFTP\digicap.dav] transmit
+[2015-04-25 18:11:51] Device[192.0.0.64] system update completed!
+[2015-04-25 18:12:22] Device[192.0.0.64] test tftpserver
+[2015-04-25 18:12:28] Connect client[192.0.0.64] success
+[2015-04-25 18:12:28] Start file[F:\TFTP\digicap.dav] transmitting
+[2015-04-25 18:12:56] Completed file[F:\TFTP\digicap.dav] transmit
+[2015-04-25 18:13:15] Device[192.0.0.64] system update completed!
+[2015-04-25 18:19:10] TFTP server[192.168.1.7] initialized
+[2015-04-25 18:19:28] TFTP server[192.0.0.128] initialized
+[2015-04-25 18:19:37] Device[192.0.0.64] test tftpserver
+[2015-04-25 18:19:43] Connect client[192.0.0.64] success
+[2015-04-25 18:19:43] Start file[F:\TFTP\digicap.dav] transmitting
+[2015-04-25 18:20:17] Completed file[F:\TFTP\digicap.dav] transmit
+[2015-04-25 18:20:40] Device[192.0.0.64] system update completed!
+[2015-04-25 18:21:51] TFTP server[192.0.0.128] initialized
+[2015-04-25 18:21:58] Device[192.0.0.64] test tftpserver
+[2015-04-25 18:22:04] Connect client[192.0.0.64] success
+[2015-04-25 18:22:04] Start file[F:\TFTP\digicap.dav] transmitting
+[2015-04-25 18:22:33] Completed file[F:\TFTP\digicap.dav] transmit
+[2015-04-25 18:22:52] Device[192.0.0.64] system update completed!
+[2015-04-25 18:26:06] TFTP server[192.0.0.128] initialized
+[2015-04-25 18:26:11] Device[192.0.0.64] test tftpserver
+[2015-04-25 18:26:28] Device[192.0.0.64] test tftpserver
+[2015-04-25 18:26:34] Connect client[192.0.0.64] success
+[2015-04-25 18:26:34] Start file[F:\TFTP\digicap.dav] transmitting
+[2015-04-25 18:27:03] Completed file[F:\TFTP\digicap.dav] transmit
+[2015-04-25 18:27:23] Device[192.0.0.64] system update completed!
+[2015-04-25 18:35:38] TFTP server[192.0.0.128] initialized
+[2015-04-25 18:35:54] Device[192.0.0.64] test tftpserver
+[2015-04-25 18:36:01] Connect client[192.0.0.64] success
+[2015-04-25 18:36:01] Start file[F:\TFTP\digicap.dav] transmitting
+[2015-04-25 18:36:29] Completed file[F:\TFTP\digicap.dav] transmit
+[2015-04-25 18:36:49] Device[192.0.0.64] system update completed!
+[2015-04-25 18:42:15] TFTP server[192.0.0.128] initialized
+[2015-04-25 18:42:55] Device[192.0.0.64] test tftpserver
+[2015-04-25 18:43:01] Connect client[192.0.0.64] success
+[2015-04-25 18:43:01] Start file[F:\TFTP\digicap.dav] transmitting
+[2015-04-25 18:43:30] Completed file[F:\TFTP\digicap.dav] transmit
+[2015-04-25 18:43:50] Device[192.0.0.64] system update completed!
+[2015-04-26 09:52:13] Device[192.0.0.64] test tftpserver
+[2015-04-26 09:52:21] Connect client[192.0.0.64] success
+[2015-04-26 09:52:21] Start file[F:\TFTP\digicap.dav] transmitting
+[2015-04-26 09:52:50] Completed file[F:\TFTP\digicap.dav] transmit
+[2015-04-26 09:53:10] Device[192.0.0.64] system update completed!
+[2015-04-26 11:11:32] Device[192.0.0.64] test tftpserver
+[2015-04-26 11:11:39] Connect client[192.0.0.64] success
+[2015-04-26 11:11:39] Start file[F:\TFTP\digicap.dav] transmitting
+[2015-04-26 11:12:08] Completed file[F:\TFTP\digicap.dav] transmit
+[2015-04-26 11:12:27] Device[192.0.0.64] system update completed!
+[2015-04-26 19:16:42] TFTP server[127.0.0.1] initialized
+[2015-04-26 19:17:33] TFTP server[192.0.0.128] initialized
+[2015-04-26 19:17:40] Device[192.0.0.64] test tftpserver
+[2015-04-26 19:17:47] Connect client[192.0.0.64] success
+[2015-04-26 19:17:47] Start file[F:\TFTP\digicap.dav] transmitting
+[2015-04-26 19:18:19] Completed file[F:\TFTP\digicap.dav] transmit
+[2015-04-26 19:18:38] Device[192.0.0.64] system update completed!
+[2015-05-03 12:45:40] TFTP server[192.0.0.128] initialized
+[2015-05-03 12:46:09] Device[192.0.0.64] test tftpserver
+[2015-05-03 12:46:17] Connect client[192.0.0.64] success
+[2015-05-03 12:46:17] Start file[F:\TFTP\digicap.dav] transmitting
+[2015-05-03 12:46:39] Completed file[F:\TFTP\digicap.dav] transmit
+[2015-05-03 12:46:39] Device[192.0.0.64] system update completed!
+[2015-05-03 12:51:25] TFTP server[192.0.0.128] initialized
+[2015-05-03 12:51:34] Device[192.0.0.64] test tftpserver
+[2015-05-03 12:51:42] Connect client[192.0.0.64] success
+[2015-05-03 12:51:42] Start file[F:\TFTP\digicap.dav] transmitting
+[2015-05-03 12:52:11] Completed file[F:\TFTP\digicap.dav] transmit
+[2015-05-03 12:52:30] Device[192.0.0.64] system update completed!
+[2015-05-03 15:06:50] TFTP server[192.0.0.128] initialized
+[2015-05-03 15:06:59] Device[192.0.0.64] test tftpserver
+[2015-05-03 15:07:07] Connect client[192.0.0.64] success
+[2015-05-03 15:07:07] Start file[F:\TFTP\digicap.dav] transmitting
+[2015-05-03 15:07:36] Completed file[F:\TFTP\digicap.dav] transmit
+[2015-05-03 15:07:55] Device[192.0.0.64] system update completed!
+[2015-05-03 15:22:19] TFTP server[192.168.1.7] initialized
+[2015-05-03 15:22:28] Device[192.0.0.64] test tftpserver
+[2015-05-03 15:22:36] Connect client[192.0.0.64] success
+[2015-05-03 15:22:36] Start file[F:\TFTP\digicap.dav] transmitting
+[2015-05-03 15:23:10] Completed file[F:\TFTP\digicap.dav] transmit
+[2015-05-03 15:23:32] Device[192.0.0.64] system update completed!
+[2015-05-03 15:25:54] TFTP server[192.168.1.7] initialized
+[2015-05-03 15:26:03] Device[192.0.0.64] test tftpserver
+[2015-05-03 15:26:11] Connect client[192.0.0.64] success
+[2015-05-03 15:26:11] Start file[F:\TFTP\digicap.dav] transmitting
+[2015-05-03 15:26:40] Completed file[F:\TFTP\digicap.dav] transmit
+[2015-05-03 15:26:58] Device[192.0.0.64] system update completed!
+[2015-05-03 15:30:46] TFTP server[192.168.1.7] initialized
+[2015-05-03 15:30:55] Device[192.0.0.64] test tftpserver
+[2015-05-03 15:31:02] Connect client[192.0.0.64] success
+[2015-05-03 15:31:02] Start file[F:\TFTP\digicap.dav] transmitting
+[2015-05-03 15:31:32] Completed file[F:\TFTP\digicap.dav] transmit
+[2015-05-03 15:31:50] Device[192.0.0.64] system update completed!
+[2015-05-06 17:17:22] TFTP server[192.168.1.7] initialized
+[2015-05-06 17:17:35] Device[192.0.0.64] test tftpserver
+[2015-05-06 17:17:42] Connect client[192.0.0.64] success
+[2015-05-06 17:17:42] Start file[F:\TFTP\digicap.dav] transmitting
+[2015-05-06 17:18:13] Completed file[F:\TFTP\digicap.dav] transmit
+[2015-05-06 17:18:35] Device[192.0.0.64] system update completed!
+[2015-05-07 17:18:21] TFTP server[192.168.1.7] initialized
+[2015-05-07 17:19:09] Device[192.0.0.64] test tftpserver
+[2015-05-07 17:19:17] Connect client[192.0.0.64] success
+[2015-05-07 17:19:17] Start file[F:\TFTP\digicap.dav] transmitting
+[2015-05-07 17:19:52] Completed file[F:\TFTP\digicap.dav] transmit
+[2015-05-07 17:20:13] Device[192.0.0.64] system update completed!
+[2015-05-14 18:18:42] TFTP server[192.168.1.7] initialized
+[2015-05-14 18:18:53] Device[192.0.0.64] test tftpserver
+[2015-05-14 18:19:01] Connect client[192.0.0.64] success
+[2015-05-14 18:19:01] Start file[F:\TFTP\digicap.dav] transmitting
+[2015-05-14 18:19:25] Completed file[F:\TFTP\digicap.dav] transmit
+[2015-05-14 18:19:25] Device[192.0.0.64] system update completed!
+[2015-05-14 18:52:21] TFTP server[192.168.1.7] initialized
+[2015-05-14 18:52:29] Device[192.0.0.64] test tftpserver
+[2015-05-14 18:52:37] Connect client[192.0.0.64] success
+[2015-05-14 18:52:37] Start file[F:\TFTP\digicap.dav] transmitting
+[2015-05-14 18:53:11] Completed file[F:\TFTP\digicap.dav] transmit
+[2015-05-14 18:53:34] Device[192.0.0.64] system update completed!
+[2015-05-14 19:03:57] TFTP server[192.168.1.7] initialized
+[2015-05-14 19:04:41] Device[192.0.0.64] test tftpserver
+[2015-05-14 19:04:51] Connect client[192.0.0.64] success
+[2015-05-14 19:04:51] Start file[F:\TFTP\digicap.dav] transmitting
+[2015-05-14 19:05:25] Completed file[F:\TFTP\digicap.dav] transmit
+[2015-05-14 19:05:48] Device[192.0.0.64] system update completed!
+[2015-05-14 19:43:16] TFTP server[192.0.0.128] initialized
+[2015-05-14 19:43:25] Device[192.0.0.64] test tftpserver
+[2015-05-14 19:43:33] Connect client[192.0.0.64] success
+[2015-05-14 19:43:33] Start file[F:\TFTP\digicap.dav] transmitting
+[2015-05-14 19:44:07] Completed file[F:\TFTP\digicap.dav] transmit
+[2015-05-14 19:44:29] Device[192.0.0.64] system update completed!
+[2015-05-15 16:58:07] TFTP server[192.168.1.7] initialized
+[2015-05-15 16:58:16] Device[192.0.0.64] test tftpserver
+[2015-05-15 16:58:24] Connect client[192.0.0.64] success
+[2015-05-15 16:58:24] Start file[F:\TFTP\digicap.dav] transmitting
+[2015-05-15 16:58:57] Completed file[F:\TFTP\digicap.dav] transmit
+[2015-05-15 16:59:17] Device[192.0.0.64] system update completed!
+[2015-05-15 17:00:28] TFTP server[192.168.1.7] initialized
+[2015-05-15 17:00:37] Device[192.0.0.64] test tftpserver
+[2015-05-15 17:00:46] Connect client[192.0.0.64] success
+[2015-05-15 17:00:46] Start file[F:\TFTP\digicap.dav] transmitting
+[2015-05-15 17:01:20] Completed file[F:\TFTP\digicap.dav] transmit
+[2015-05-15 17:01:41] Device[192.0.0.64] system update completed!
+[2015-05-16 14:09:58] TFTP server[192.168.1.7] initialized
+[2015-05-16 14:10:09] Device[192.0.0.64] test tftpserver
+[2015-05-16 14:10:09] Connect client[192.0.0.64] success
+[2015-05-16 14:10:09] Start file[F:\TFTP\digicap.dav] transmitting
+[2015-05-16 14:10:21] Completed file[F:\TFTP\digicap.dav] transmit
+[2015-05-16 14:10:52] Connect client[192.168.1.31] success
+[2015-05-16 14:10:52] Open file[F:\TFTP\econt_Vision-AV2000meout] failure
+[2015-05-16 14:10:52] Connect client[192.168.1.31] success
+[2015-05-16 14:10:52] Open file[F:\TFTP\econt_Vision-AV2000] failure
+[2015-05-16 14:19:59] Connect client[192.168.1.31] success
+[2015-05-16 14:19:59] Open file[F:\TFTP\econt_Vision-AV2000] failure
+[2015-05-16 14:43:46] TFTP server[192.168.1.7] initialized
+[2015-05-16 14:43:55] Device[192.0.0.64] test tftpserver
+[2015-05-16 14:43:55] Connect client[192.0.0.64] success
+[2015-05-16 14:43:55] Start file[F:\TFTP\digicap.dav] transmitting
+[2015-05-16 14:44:12] Completed file[F:\TFTP\digicap.dav] transmit
+[2015-05-16 14:46:04] Device[192.0.0.64] test tftpserver
+[2015-05-16 14:46:45] Device[192.0.0.64] test tftpserver
+[2015-05-16 14:46:45] Connect client[192.0.0.64] success
+[2015-05-16 14:46:45] Start file[F:\TFTP\digicap.dav] transmitting
+[2015-05-16 14:47:03] Completed file[F:\TFTP\digicap.dav] transmit
+[2015-05-16 14:48:54] Device[192.0.0.64] test tftpserver
+[2015-05-16 14:49:35] Device[192.0.0.64] test tftpserver
+[2015-05-16 14:49:35] Connect client[192.0.0.64] success
+[2015-05-16 14:49:35] Start file[F:\TFTP\digicap.dav] transmitting
+[2015-05-16 14:49:52] Completed file[F:\TFTP\digicap.dav] transmit
+[2015-05-16 14:51:43] Device[192.0.0.64] test tftpserver
+[2015-05-16 14:52:24] Device[192.0.0.64] test tftpserver
+[2015-05-16 14:52:24] Connect client[192.0.0.64] success
+[2015-05-16 14:52:24] Start file[F:\TFTP\digicap.dav] transmitting
+[2015-05-16 14:52:41] Completed file[F:\TFTP\digicap.dav] transmit
+[2015-05-16 14:54:32] Device[192.0.0.64] test tftpserver
+[2015-05-16 14:55:13] Device[192.0.0.64] test tftpserver
+[2015-05-16 14:55:13] Connect client[192.0.0.64] success
+[2015-05-16 14:55:13] Start file[F:\TFTP\digicap.dav] transmitting
+[2015-05-16 14:55:46] TFTP server[192.168.1.7] initialized
+[2015-05-16 14:55:56] Device[192.0.0.64] test tftpserver
+[2015-05-16 14:55:56] Connect client[192.0.0.64] success
+[2015-05-16 14:55:56] Start file[F:\TFTP\digicap.dav] transmitting
+[2015-05-16 14:56:15] Completed file[F:\TFTP\digicap.dav] transmit
+[2015-05-16 14:58:07] Device[192.0.0.64] test tftpserver
+[2015-05-16 14:58:48] Device[192.0.0.64] test tftpserver
+[2015-05-16 14:58:48] Connect client[192.0.0.64] success
+[2015-05-16 14:58:48] Start file[F:\TFTP\digicap.dav] transmitting
+[2015-05-16 14:59:07] Completed file[F:\TFTP\digicap.dav] transmit
+[2015-05-16 15:00:59] Device[192.0.0.64] test tftpserver
+[2015-05-16 15:01:40] Device[192.0.0.64] test tftpserver
+[2015-05-16 15:01:40] Connect client[192.0.0.64] success
+[2015-05-16 15:01:40] Start file[F:\TFTP\digicap.dav] transmitting
+[2015-05-16 15:01:59] Completed file[F:\TFTP\digicap.dav] transmit
+[2015-05-16 15:03:50] Device[192.0.0.64] test tftpserver
+[2015-05-16 15:04:31] Device[192.0.0.64] test tftpserver
+[2015-05-16 15:04:31] Connect client[192.0.0.64] success
+[2015-05-16 15:04:31] Start file[F:\TFTP\digicap.dav] transmitting
+[2015-05-16 15:04:50] Completed file[F:\TFTP\digicap.dav] transmit
+[2015-05-16 15:06:42] Device[192.0.0.64] test tftpserver
+[2015-05-16 15:07:23] Device[192.0.0.64] test tftpserver
+[2015-05-16 15:07:23] Connect client[192.0.0.64] success
+[2015-05-16 15:07:23] Start file[F:\TFTP\digicap.dav] transmitting
+[2015-05-16 15:07:28] Resend required
+
+[2015-05-16 15:07:43] Completed file[F:\TFTP\digicap.dav] transmit
+[2015-05-16 15:09:34] Device[192.0.0.64] test tftpserver
+[2015-05-16 15:10:15] Device[192.0.0.64] test tftpserver
+[2015-05-16 15:10:15] Connect client[192.0.0.64] success
+[2015-05-16 15:10:15] Start file[F:\TFTP\digicap.dav] transmitting
+[2015-05-16 15:10:34] Completed file[F:\TFTP\digicap.dav] transmit
+[2015-05-16 15:12:28] TFTP server[192.168.1.7] initialized
+[2015-05-16 15:12:40] Device[192.0.0.64] test tftpserver
+[2015-05-16 15:13:21] Device[192.0.0.64] test tftpserver
+[2015-05-16 15:13:21] Connect client[192.0.0.64] success
+[2015-05-16 15:13:21] Start file[F:\TFTP\digicap.dav] transmitting
+[2015-05-16 15:13:39] Completed file[F:\TFTP\digicap.dav] transmit
+[2015-05-16 15:15:29] Connect client[192.168.1.31] success
+[2015-05-16 15:15:29] Open file[F:\TFTP\econt_Vision-AV2000meout] failure
+[2015-05-16 15:15:29] Connect client[192.168.1.31] success
+[2015-05-16 15:15:29] Open file[F:\TFTP\econt_Vision-AV2000] failure
+[2015-05-17 14:43:51] TFTP server[192.168.1.7] initialized
+[2015-05-17 14:44:03] Device[192.0.0.64] test tftpserver
+[2015-05-17 14:44:03] Connect client[192.0.0.64] success
+[2015-05-17 14:44:03] Start file[F:\TFTP\digicap.dav] transmitting
+[2015-05-17 14:44:16] Completed file[F:\TFTP\digicap.dav] transmit
+[2015-05-17 14:44:54] Connect client[192.168.1.2] success
+[2015-05-17 14:44:54] Open file[F:\TFTP\econt_Vision-AV2000meout] failure
+[2015-05-17 14:50:41] TFTP server[192.168.1.7] initialized
+[2015-05-17 14:50:48] Device[192.0.0.64] test tftpserver
+[2015-05-17 14:51:28] Connect client[192.168.1.3] success
+[2015-05-17 14:51:28] Open file[F:\TFTP\econt_Vision-AV2000] failure
+[2015-05-17 14:55:32] TFTP server[192.168.1.7] initialized
+[2015-05-17 14:55:41] Device[192.0.0.64] test tftpserver
+[2015-05-17 14:56:19] Connect client[192.168.1.3] success
+[2015-05-17 14:56:19] Open file[F:\TFTP\econt_Vision-AV2000] failure
+[2015-05-17 14:58:54] TFTP server[192.168.1.7] initialized
+[2015-05-17 14:59:03] Device[192.0.0.64] test tftpserver
+[2015-05-17 14:59:04] Connect client[192.0.0.64] success
+[2015-05-17 14:59:04] Start file[F:\TFTP\digicap.dav] transmitting
+[2015-05-17 14:59:29] Completed file[F:\TFTP\digicap.dav] transmit
+[2015-05-17 15:00:08] Connect client[192.168.1.3] success
+[2015-05-17 15:00:08] Open file[F:\TFTP\econt_Vision-AV2000meout] failure
+[2015-05-18 14:48:19] TFTP server[192.168.1.7] initialized
+[2015-05-18 14:48:46] Device[192.0.0.64] test tftpserver
+[2015-05-18 14:48:53] Connect client[192.0.0.64] success
+[2015-05-18 14:48:53] Start file[F:\TFTP\digicap.dav] transmitting
+[2015-05-18 14:49:28] Completed file[F:\TFTP\digicap.dav] transmit
+[2015-05-18 14:49:48] Device[192.0.0.64] system update completed!
+[2015-05-18 15:16:20] TFTP server[192.168.1.7] initialized
+[2015-05-18 15:17:38] Device[192.0.0.64] test tftpserver
+[2015-05-18 15:17:47] Connect client[192.0.0.64] success
+[2015-05-18 15:17:47] Start file[F:\TFTP\digicap.dav] transmitting
+[2015-05-18 15:18:18] Completed file[F:\TFTP\digicap.dav] transmit
+[2015-05-18 15:18:37] Device[192.0.0.64] system update completed!
+[2015-05-18 15:49:56] TFTP server[192.168.1.7] initialized
+[2015-05-18 15:51:10] TFTP server[192.0.0.168] initialized
+[2015-05-18 15:51:48] TFTP server[192.0.0.128] initialized
+[2015-05-18 15:51:55] Device[192.0.0.64] test tftpserver
+[2015-05-18 15:52:02] Connect client[192.0.0.64] success
+[2015-05-18 15:52:02] Start file[F:\TFTP\digicap.dav] transmitting
+[2015-05-18 15:52:33] Completed file[F:\TFTP\digicap.dav] transmit
+[2015-05-18 15:52:54] Device[192.0.0.64] system update completed!
+[2015-05-18 15:56:29] TFTP server[192.0.0.128] initialized
+[2015-05-18 15:56:57] Device[192.0.0.64] test tftpserver
+[2015-05-18 15:57:05] Connect client[192.0.0.64] success
+[2015-05-18 15:57:05] Start file[F:\TFTP\digicap.dav] transmitting
+[2015-05-18 15:57:37] Completed file[F:\TFTP\digicap.dav] transmit
+[2015-05-18 15:57:57] Device[192.0.0.64] system update completed!
+[2015-05-18 15:59:46] TFTP server[192.0.0.128] initialized
+[2015-05-18 15:59:53] Device[192.0.0.64] test tftpserver
+[2015-05-18 16:00:01] Connect client[192.0.0.64] success
+[2015-05-18 16:00:01] Start file[F:\TFTP\digicap.dav] transmitting
+[2015-05-18 16:00:30] Completed file[F:\TFTP\digicap.dav] transmit
+[2015-05-18 17:01:31] TFTP server[192.0.0.128] initialized
+[2015-05-18 17:01:40] Device[192.0.0.64] test tftpserver
+[2015-05-18 17:01:47] Connect client[192.0.0.64] success
+[2015-05-18 17:01:47] Start file[F:\TFTP\digicap.dav] transmitting
+[2015-05-18 17:02:18] Completed file[F:\TFTP\digicap.dav] transmit
+[2015-05-18 17:02:39] Device[192.0.0.64] system update completed!
+[2015-05-18 17:10:44] TFTP server[192.0.0.128] initialized
+[2015-05-18 17:10:50] Device[192.0.0.64] test tftpserver
+[2015-05-18 17:10:57] Connect client[192.0.0.64] success
+[2015-05-18 17:10:57] Start file[F:\TFTP\digicap.dav] transmitting
+[2015-05-18 17:11:26] Completed file[F:\TFTP\digicap.dav] transmit
+[2015-05-18 17:11:45] Device[192.0.0.64] system update completed!
+[2015-05-18 17:15:11] TFTP server[192.0.0.128] initialized
+[2015-05-18 17:15:32] Device[192.0.0.64] test tftpserver
+[2015-05-18 17:15:40] Connect client[192.0.0.64] success
+[2015-05-18 17:15:40] Start file[F:\TFTP\digicap.dav] transmitting
+[2015-05-18 17:15:41] Resend required
+
+[2015-05-18 17:15:41] Resend required
+
+[2015-05-18 17:15:41] Resend required
+
+[2015-05-18 17:15:41] Resend required
+
+[2015-05-18 17:15:41] Resend required
+
+[2015-05-18 17:15:55] Device[192.0.0.64] test tftpserver
+[2015-05-18 17:16:03] Connect client[192.0.0.64] success
+[2015-05-18 17:16:03] Start file[F:\TFTP\digicap.dav] transmitting
+[2015-05-18 17:16:33] Completed file[F:\TFTP\digicap.dav] transmit
+[2015-05-18 17:16:52] Device[192.0.0.64] system update completed!
+[2015-05-18 17:19:01] TFTP server[192.0.0.128] initialized
+[2015-05-18 17:19:17] Device[192.0.0.64] test tftpserver
+[2015-05-18 17:19:24] Device[192.0.0.64] test tftpserver
+[2015-05-18 17:19:33] Connect client[192.0.0.64] success
+[2015-05-18 17:19:33] Start file[F:\TFTP\digicap.dav] transmitting
+[2015-05-18 17:20:02] Completed file[F:\TFTP\digicap.dav] transmit
+[2015-05-18 17:20:21] Device[192.0.0.64] system update completed!
+[2015-05-18 17:42:11] Device[192.0.0.64] test tftpserver
+[2015-05-18 17:42:20] Connect client[192.0.0.64] success
+[2015-05-18 17:42:20] Start file[F:\TFTP\digicap.dav] transmitting
+[2015-05-18 17:42:49] Completed file[F:\TFTP\digicap.dav] transmit
+[2015-05-18 17:43:08] Device[192.0.0.64] system update completed!
+[2015-05-18 17:43:49] TFTP server[192.0.0.128] initialized
+[2015-05-18 17:43:58] Device[192.0.0.64] test tftpserver
+[2015-05-18 17:44:04] Connect client[192.0.0.64] success
+[2015-05-18 17:44:04] Start file[F:\TFTP\digicap.dav] transmitting
+[2015-05-18 17:44:33] Completed file[F:\TFTP\digicap.dav] transmit
+[2015-05-18 17:44:52] Device[192.0.0.64] system update completed!
+[2015-05-18 17:50:32] TFTP server[192.0.0.128] initialized
+[2015-05-18 17:50:39] Device[192.0.0.64] test tftpserver
+[2015-05-18 17:51:22] Device[192.0.0.64] test tftpserver
+[2015-05-18 17:51:29] Connect client[192.0.0.64] success
+[2015-05-18 17:51:29] Start file[F:\TFTP\digicap.dav] transmitting
+[2015-05-18 17:51:59] Completed file[F:\TFTP\digicap.dav] transmit
+[2015-05-18 17:52:17] Device[192.0.0.64] system update completed!
+[2015-05-18 17:55:03] Device[192.0.0.64] test tftpserver
+[2015-05-18 17:55:11] Connect client[192.0.0.64] success
+[2015-05-18 17:55:11] Connect client[192.0.0.64] success
+[2015-05-18 17:55:11] Start file[F:\TFTP\digicap.dav] transmitting
+[2015-05-18 17:55:11] Start file[F:\TFTP\digicap.dav] transmitting
+[2015-05-18 17:55:12] Resend required
+
+[2015-05-18 17:55:12] Resend required
+
+[2015-05-18 17:55:12] Resend required
+
+[2015-05-18 17:55:15] Resend required
+
+[2015-05-18 17:55:42] Completed file[F:\TFTP\digicap.dav] transmit
+[2015-05-18 17:56:01] Device[192.0.0.64] system update completed!
+[2015-05-18 17:56:26] Device[192.0.0.64] test tftpserver
+[2015-05-18 17:56:34] Connect client[192.0.0.64] success
+[2015-05-18 17:56:34] Start file[F:\TFTP\digicap.dav] transmitting
+[2015-05-18 17:57:04] Completed file[F:\TFTP\digicap.dav] transmit
+[2015-05-18 17:57:23] Device[192.0.0.64] system update completed!
+[2015-05-18 18:00:19] TFTP server[192.0.0.128] initialized
+[2015-05-18 18:00:28] Device[192.0.0.64] test tftpserver
+[2015-05-18 18:00:34] Connect client[192.0.0.64] success
+[2015-05-18 18:00:34] Start file[F:\TFTP\digicap.dav] transmitting
+[2015-05-18 18:01:03] Completed file[F:\TFTP\digicap.dav] transmit
+[2015-05-18 18:01:22] Device[192.0.0.64] system update completed!
+[2015-05-18 18:29:41] TFTP server[192.0.0.128] initialized
+[2015-05-18 18:29:48] Device[192.0.0.64] test tftpserver
+[2015-05-18 18:29:55] Connect client[192.0.0.64] success
+[2015-05-18 18:29:55] Start file[F:\TFTP\digicap.dav] transmitting
+[2015-05-18 18:30:35] TFTP server[192.0.0.128] initialized
+[2015-05-18 18:30:43] Device[192.0.0.64] test tftpserver
+[2015-05-18 18:30:52] Connect client[192.0.0.64] success
+[2015-05-18 18:30:52] Start file[F:\TFTP\digicap.dav] transmitting
+[2015-05-18 18:31:21] Completed file[F:\TFTP\digicap.dav] transmit
+[2015-05-18 18:31:39] Device[192.0.0.64] system update completed!
+[2015-05-18 19:39:47] TFTP server[192.0.0.128] initialized
+[2015-05-18 19:39:55] Device[192.0.0.64] test tftpserver
+[2015-05-18 19:40:03] Connect client[192.0.0.64] success
+[2015-05-18 19:40:03] Start file[F:\TFTP\digicap.dav] transmitting
+[2015-05-18 19:40:32] Completed file[F:\TFTP\digicap.dav] transmit
+[2015-05-18 19:40:51] Device[192.0.0.64] system update completed!
+[2015-05-21 19:03:34] TFTP server[192.168.1.11] initialized
+[2015-05-21 19:03:45] Device[192.0.0.64] test tftpserver
+[2015-05-23 19:10:30] TFTP server[192.168.1.11] initialized
+[2015-05-23 19:11:00] Device[192.0.0.64] test tftpserver
+[2015-05-23 19:11:08] Connect client[192.0.0.64] success
+[2015-05-23 19:11:08] Start file[F:\TFTP\digicap.dav] transmitting
+[2015-05-23 19:11:43] Completed file[F:\TFTP\digicap.dav] transmit
+[2015-05-23 19:12:05] Device[192.0.0.64] system update completed!
+[2015-05-23 19:19:46] TFTP server[192.0.0.128] initialized
+[2015-05-23 19:19:52] Device[192.0.0.64] test tftpserver
+[2015-05-23 19:20:01] Connect client[192.0.0.64] success
+[2015-05-23 19:20:01] Start file[F:\TFTP\digicap.dav] transmitting
+[2015-05-23 19:20:34] Completed file[F:\TFTP\digicap.dav] transmit
+[2015-05-23 19:20:57] Device[192.0.0.64] system update completed!
+[2015-05-23 19:48:39] Device[192.0.0.64] test tftpserver
+[2015-05-23 19:48:48] Connect client[192.0.0.64] success
+[2015-05-23 19:48:48] Start file[F:\TFTP\digicap.dav] transmitting
+[2015-05-23 20:09:02] TFTP server[192.0.0.128] initialized
+[2015-05-23 20:09:09] Device[192.0.0.64] test tftpserver
+[2015-05-23 20:09:16] Connect client[192.0.0.64] success
+[2015-05-23 20:09:16] Start file[F:\TFTP\digicap.dav] transmitting
+[2015-05-23 20:09:46] Completed file[F:\TFTP\digicap.dav] transmit
+[2015-05-23 20:10:04] Device[192.0.0.64] system update completed!
+[2015-05-23 21:48:01] TFTP server[192.0.0.128] initialized
+[2015-05-23 21:48:18] TFTP server[192.0.0.128] initialized
+[2015-05-23 21:48:25] Device[192.0.0.64] test tftpserver
+[2015-05-23 21:48:31] Connect client[192.0.0.64] success
+[2015-05-23 21:48:31] Start file[F:\TFTP\digicap.dav] transmitting
+[2015-05-23 21:49:01] Completed file[F:\TFTP\digicap.dav] transmit
+[2015-05-23 21:49:19] Device[192.0.0.64] system update completed!
+[2015-05-24 18:32:01] TFTP server[192.168.1.11] initialized
+[2015-05-24 18:32:12] Device[192.0.0.64] test tftpserver
+[2015-05-24 18:32:14] Connect client[192.0.0.64] success
+[2015-05-24 18:32:14] Start file[F:\TFTP\digicap.dav] transmitting
+[2015-05-24 18:32:22] Resend required
+
+[2015-05-24 18:32:31] Resend required
+
+[2015-05-24 18:32:40] Resend required
+
+[2015-05-24 18:32:46] Completed file[F:\TFTP\digicap.dav] transmit
+[2015-05-25 17:22:14] TFTP server[192.168.1.11] initialized
+[2015-05-25 17:22:23] Device[192.0.0.64] test tftpserver
+[2015-05-25 17:22:23] Connect client[192.0.0.64] success
+[2015-05-25 17:22:23] Start file[F:\TFTP\digicap.dav] transmitting
+[2015-05-25 17:22:42] Completed file[F:\TFTP\digicap.dav] transmit
+[2015-05-25 17:23:21] Connect client[192.0.0.64] success
+[2015-05-25 17:23:21] Open file[F:\TFTP\econt_Vision-AV2000meout] failure
+[2015-05-26 17:18:53] TFTP server[192.168.1.11] initialized
+[2015-05-26 17:21:10] Device[192.0.0.64] test tftpserver
+[2015-05-26 17:21:10] Connect client[192.0.0.64] success
+[2015-05-26 17:21:10] Start file[F:\TFTP\digicap.dav] transmitting
+[2015-05-26 17:21:28] Completed file[F:\TFTP\digicap.dav] transmit
+[2015-05-26 17:23:18] Connect client[192.0.0.64] success
+[2015-05-26 17:23:18] Open file[F:\TFTP\econt_Vision-AV2000meout] failure
+[2015-05-26 17:29:34] TFTP server[192.168.1.11] initialized
+[2015-05-26 17:29:41] Device[192.0.0.64] test tftpserver
+[2015-05-26 17:30:22] Connect client[192.0.0.64] success
+[2015-05-26 17:30:22] Open file[F:\TFTP\econt_Vision-AV2000] failure
+[2015-05-26 17:31:05] Device[192.0.0.64] test tftpserver
+[2015-05-26 17:31:06] Connect client[192.0.0.64] success
+[2015-05-26 17:31:06] Start file[F:\TFTP\digicap.dav] transmitting
+[2015-05-26 17:31:26] Completed file[F:\TFTP\digicap.dav] transmit
+[2015-05-26 17:32:04] Connect client[192.0.0.64] success
+[2015-05-26 17:32:04] Open file[F:\TFTP\econt_Vision-AV2000meout] failure
+[2015-05-26 17:38:54] TFTP server[192.168.1.11] initialized
+[2015-05-26 17:39:06] Device[192.0.0.64] test tftpserver
+[2015-05-26 17:39:40] Device[192.0.0.64] test tftpserver
+[2015-05-26 17:39:41] Connect client[192.0.0.64] success
+[2015-05-26 17:39:41] Start file[F:\TFTP\digicap.dav] transmitting
+[2015-05-26 17:39:53] Completed file[F:\TFTP\digicap.dav] transmit
+[2015-05-26 17:40:31] Connect client[192.0.0.64] success
+[2015-05-26 17:40:31] Open file[F:\TFTP\econt_Vision-AV2000meout] failure
+[2015-05-26 18:00:12] TFTP server[192.168.1.11] initialized
+[2015-05-26 18:00:20] Device[192.0.0.64] test tftpserver
+[2015-05-26 18:01:01] Connect client[192.0.0.64] success
+[2015-05-26 18:01:01] Open file[F:\TFTP\econt_Vision-AV2000] failure
+[2015-05-29 19:08:25] TFTP server[192.168.1.11] initialized
+[2015-05-29 19:09:27] TFTP server[192.168.1.11] initialized
+[2015-05-29 19:09:57] TFTP server[192.168.1.11] initialized
+[2015-05-29 19:10:35] Device[192.0.0.64] test tftpserver
+[2015-05-29 19:10:43] Connect client[192.0.0.64] success
+[2015-05-29 19:10:43] Start file[F:\TFTP\digicap.dav] transmitting
+[2015-05-29 19:11:12] Completed file[F:\TFTP\digicap.dav] transmit
+[2015-05-29 19:11:31] Device[192.0.0.64] system update completed!
+[2015-05-30 15:47:54] TFTP server[127.0.0.1] initialized
+[2015-05-30 15:49:55] TFTP server[192.0.0.128] initialized
+[2015-05-30 15:50:02] Device[192.0.0.64] test tftpserver
+[2015-05-30 15:50:10] Connect client[192.0.0.64] success
+[2015-05-30 15:50:10] Start file[F:\TFTP\digicap.dav] transmitting
+[2015-05-30 15:50:44] Completed file[F:\TFTP\digicap.dav] transmit
+[2015-05-30 15:51:06] Device[192.0.0.64] system update completed!
+[2015-05-30 15:58:33] TFTP server[192.0.0.128] initialized
+[2015-05-30 15:58:45] Device[192.0.0.64] test tftpserver
+[2015-05-30 15:58:53] Connect client[192.0.0.64] success
+[2015-05-30 15:58:53] Start file[F:\TFTP\digicap.dav] transmitting
+[2015-05-30 15:59:28] Completed file[F:\TFTP\digicap.dav] transmit
+[2015-05-30 15:59:50] Device[192.0.0.64] system update completed!
+[2015-05-30 17:09:22] TFTP server[192.0.0.128] initialized
+[2015-05-30 17:09:38] Device[192.0.0.64] test tftpserver
+[2015-05-30 17:09:48] Connect client[192.0.0.64] success
+[2015-05-30 17:09:48] Start file[F:\TFTP\digicap.dav] transmitting
+[2015-05-30 17:10:24] Completed file[F:\TFTP\digicap.dav] transmit
+[2015-05-30 17:10:47] Device[192.0.0.64] system update completed!
+[2015-05-31 13:45:44] TFTP server[192.168.1.128] initialized
+[2015-05-31 13:46:08] TFTP server[127.0.0.1] initialized
+[2015-06-08 16:07:07] TFTP server[192.168.1.11] initialized
+[2015-06-08 16:07:16] Device[192.0.0.64] test tftpserver
+[2015-06-08 16:07:16] Device[192.0.0.64] test tftpserver
+[2015-06-08 16:07:16] Connect client[192.0.0.64] success
+[2015-06-08 16:07:16] Start file[F:\TFTP\digicap.dav] transmitting
+[2015-06-08 16:07:25] Resend required
+
+[2015-06-08 16:07:30] Completed file[F:\TFTP\digicap.dav] transmit
+[2015-06-08 16:08:34] Connect client[192.0.0.64] success
+[2015-06-08 16:08:34] Open file[F:\TFTP\econt_Vision-AV2000meout] failure
+[2015-06-11 19:52:33] TFTP server[192.0.0.128] initialized
+[2015-06-11 19:52:40] Device[192.0.0.64] test tftpserver
+[2015-06-11 19:52:47] Connect client[192.0.0.64] success
+[2015-06-11 19:52:47] Start file[F:\TFTP\digicap.dav] transmitting
+[2015-06-11 19:53:21] Completed file[F:\TFTP\digicap.dav] transmit
+[2015-06-11 19:53:41] Device[192.0.0.64] system update completed!
